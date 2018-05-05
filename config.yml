@@ -130,6 +130,20 @@ IllegalItems:
   for: WOOD_AXE
 - check: itemType
   for: CHEST
+- check: itemType
+  for: GOLD_BLOCK
+- check: itemType
+  for: IRON_BLOCK
+- check: itemType
+  for: DIAMOND_BLOCK
+- check: itemType
+  for: REDSTONE_BLOCK
+- check: itemType
+  for: EMERALD_BLOCK
+- check: itemType
+  for: LAPIS_BLOCK
+- check: itemType
+  for: COAL_BLOCK
 PrivateEnderChest:
   rankUpgrades: 3
   defaultSlots: 27
