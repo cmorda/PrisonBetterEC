@@ -144,6 +144,16 @@ IllegalItems:
   for: LAPIS_BLOCK
 - check: itemType
   for: COAL_BLOCK
+- check: itemType
+  for: WOOD_SWORD
+- check: itemType
+  for: STONE_SWORD
+- check: itemType
+  for: GOLD_SWORD
+- check: itemType
+  for: IRON_SWORD
+- check: itemType
+  for: DIAMOND_SWORD
 PrivateEnderChest:
   rankUpgrades: 3
   defaultSlots: 27
