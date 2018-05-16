@@ -95,7 +95,7 @@ IllegalItems:
 - check: itemType
   for: LEATHER
 - check: itemType
-  for: RAW_FISH
+  for: RAW_FISH:0
 - check: itemType
   for: PRISMARINE_SHARD
 - check: itemType
